@@ -115,7 +115,8 @@ header .mobile {
 #sign-up-section {
   display: flex;
   justify-content: flex-start;
-  align-items: flex-start;
+  align-items: center;
+  margin-left: 4em;
   height: 43.5rem;
 }
 
